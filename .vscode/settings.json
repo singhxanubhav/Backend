@@ -4,6 +4,7 @@
         "avater",
         "Cloudinary",
         "fullname",
+        "middlewares",
         "requesthandler",
         "timestampes"
     ]
